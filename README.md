@@ -1,4 +1,5 @@
-# Chat-Lan (Descrição PT-BR)
+# Chat-Lan
+(Descrição PT-BR)
 Este projeto é um aplicativo de chat em tempo real projetado para uso em uma rede local (LAN), permitindo a comunicação instantânea entre dispositivos conectados à mesma rede. Ele oferece uma plataforma de mensagens simples e eficaz para facilitar a comunicação interna entre os usuários da rede LAN.
 
 Recursos Principais:
@@ -15,9 +16,7 @@ Bibliotecas: Utiliza a Biblioteca Flet para o desenvolvimento da interface de us
 
 Plataformas Suportadas: O aplicativo é compatível com todos sistemas operacionais.
 
-#Chat-Lan (Description EN)
-Description:
-
+(Description EN)
 This project is a real-time chat application designed for use on a local area network (LAN), enabling instant communication between devices connected to the same network. 
 It offers a simple and effective messaging platform to facilitate internal communication among LAN users.
 
