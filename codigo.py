@@ -1,6 +1,6 @@
 #botao iniciar Chat
 #pop-up para entrar no chat
-#quando entrar no chat: (aparace para todos)
+#quando entrar no chat: (aparece para todos)
     #mensagem de que entrou no chat
     #o campo e o botao de enviar mensagens
 #a cada mensagem que voce envia (aparece para todos)
